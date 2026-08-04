@@ -27,7 +27,7 @@
 1. Открыть [страницу соревнования](https://www.kaggle.com/competitions/spaceship-titanic) → **Code** → **New Notebook**.
 2. В панели справа **Add Input** → добавить датасет соревнования Spaceship Titanic
    (данные окажутся по пути `/kaggle/input/competitions/spaceship-titanic/`).
-3. Загрузить `SpaceshipTitanicFinal` (File → Import Notebook) или скопировать ячейки.
+3. Загрузить `spaceshiptitanicfinal` (File → Import Notebook) или скопировать ячейки.
 4. Убедиться, что включён интернет/ускоритель не требуется — задача на CPU.
 5. **Run All**. Полный прогон занимает ~10 минут.
 6. Файл `submission.csv` создаётся в последней секции (9) в `/kaggle/working/`.
