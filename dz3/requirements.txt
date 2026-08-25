@@ -1,0 +1,15 @@
+numpy>=1.26
+pandas>=2.0
+pyarrow>=15.0          # движок parquet для кэша hi_small.parquet
+scipy>=1.11            # rankdata в блендинге
+
+scikit-learn>=1.4
+xgboost>=3.0
+torch>=2.0
+
+optuna>=3.6
+shap>=0.45
+
+matplotlib>=3.9        # boxplot(tick_labels=...), в 3.8 параметр назывался labels
+psutil>=5.9            # замеры RSS
+kaggle>=1.6            # загрузка датасета
