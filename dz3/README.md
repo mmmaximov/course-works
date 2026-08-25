@@ -1,6 +1,6 @@
 # Детекция отмывания денег на транзакционном графе
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmmaximov/aml-transaction-graph/blob/main/aml_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/mmmaximov/aml-transaction-graph/blob/main/aml_detection.ipynb](https://colab.research.google.com/drive/1MOQu8_tM0GIT947RRuej1Hsi_OCxgb8e?usp=sharing))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![XGBoost](https://img.shields.io/badge/XGBoost-GPU-ff6600.svg)](https://xgboost.readthedocs.io/)
 [![Dataset: IBM AML](https://img.shields.io/badge/dataset-IBM_AML-006400.svg)](https://www.kaggle.com/datasets/ealtman2019/ibm-transactions-for-anti-money-laundering-aml)
