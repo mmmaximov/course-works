@@ -1,0 +1,50 @@
+{
+  "holdout_prauc": 0.46168620935129967,
+  "best_params": {
+    "objective": "binary:logistic",
+    "eval_metric": "aucpr",
+    "tree_method": "hist",
+    "device": "cuda",
+    "max_bin": 128,
+    "max_depth": 10,
+    "learning_rate": 0.021738268726225925,
+    "min_child_weight": 155.72966790259994,
+    "subsample": 0.8890840712320303,
+    "colsample_bytree": 0.4166336159487812,
+    "reg_lambda": 28.122813324567424,
+    "reg_alpha": 0.001727803808566315
+  },
+  "spw_mult": 0.09733870988578286,
+  "n_rows": 5077237,
+  "n_pos": 4522,
+  "n_features": 86,
+  "pos_rate": 0.000890641898339589,
+  "folds": [
+    [
+      1,
+      3,
+      4
+    ],
+    [
+      1,
+      4,
+      5
+    ],
+    [
+      1,
+      5,
+      6
+    ],
+    [
+      1,
+      6,
+      7
+    ],
+    [
+      1,
+      7,
+      8
+    ]
+  ],
+  "holdout_day": 9
+}
